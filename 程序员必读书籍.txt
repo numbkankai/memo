@@ -7,7 +7,8 @@
 程序员的自我修养
 《代码大全(第2版)》
 《Effective C++改善程序与设计的55个具体做法(第3版)(中文版)
-C++PRIMERSTL源码剖析(侯捷)
+C++PRIMER
+STL源码剖析(侯捷)
 JavaScript忍者秘籍
 Effective Python
 
